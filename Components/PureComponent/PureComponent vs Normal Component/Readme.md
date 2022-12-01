@@ -5,4 +5,7 @@
 
 ---------------------Click after 12 times------------------------------
 ![image](https://user-images.githubusercontent.com/57319180/205052262-be630b68-c28e-4deb-b160-06b78e554e34.png)
-
+N.C
+Class wenas wenawada ,Nethda adala neee sampuurna weda karai
+P.C
+Class 1 content 1 Button 1 obana warayak pasa wenas wenne nethnam weda karanne netha
