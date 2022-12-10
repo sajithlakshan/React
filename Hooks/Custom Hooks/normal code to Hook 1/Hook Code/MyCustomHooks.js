@@ -1,0 +1,24 @@
+import React from 'react'
+import useFetch from './useFetch';
+
+const UsedCustomHooks = () => {
+    const data = useFetch("https://jsonplaceholder.typicode.com/users")
+
+    
+  return (
+    <div>
+        {
+            data.map((res)=>{
+                return(
+                    <h4 key={res.id}>
+                        {res.id}.{res.name}
+
+                    </h4>
+                )
+            })
+        }
+    </div>
+  )
+}
+
+export default UsedCustomHooks
